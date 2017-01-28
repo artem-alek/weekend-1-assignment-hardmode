@@ -4,3 +4,53 @@
   -webkit-box-sizing: border-box;
   border: 1px red dotted;
 }
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.inblock {
+  display: inline-block;
+}
+
+.topbar {
+  background: #FF5D1F;
+  height: 33px;
+}
+
+.topbar-ul li {
+  display: inline-block;;
+}
+
+.topbar-ul {
+  margin: 0px;
+}
+
+.menu-items {
+  width: 50%;
+  margin: 0px;
+}
+
+.menu-items li {
+  display: inline-block;
+}
+
+.searchbar {
+  width: 50%;
+}
+
+.searchbar p {
+  display: inline-block;
+}
